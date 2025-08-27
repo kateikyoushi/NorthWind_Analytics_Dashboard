@@ -1,0 +1,18 @@
+# Northwind Advanced Analytics Dashboard Requirements
+# Streamlit application for business intelligence and analytics
+
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+
+# Machine Learning (optional but recommended for full functionality)
+scikit-learn>=1.3.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+
+# Optional: For enhanced performance
+# openpyxl>=3.1.0  # For Excel file support if needed
+# xlrd>=2.0.0      # For older Excel files if needed
